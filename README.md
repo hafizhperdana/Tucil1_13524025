@@ -21,10 +21,11 @@ Untuk menjalankan program ini, pastikan komputer Anda telah terinstal:
 * **Java Development Kit (JDK)** versi 8 atau yang lebih baru.
 * Sistem Operasi: Windows, macOS, atau Linux.
 
-## Cara Mengkompilasi dan Menjalankan
+## Cara Mengkompilasi
 Pastikan Anda berada di direktori/folder yang sama dengan file kode sumber (`.java`). Buka terminal atau command prompt, lalu jalankan perintah berikut:
 
 ```bash
 javac *.java
 
+## Cara Menjalankan
 java Main
