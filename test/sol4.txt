@@ -1,0 +1,10 @@
+#AABBB
+AAA#BB
+C#CDDD
+CCCD#D
+EE#FFF
+EEEFF#
+
+Ukuran board: 6x6
+Waktu pencarian: 0 ms
+Jumlah iterasi: 5121 kasus

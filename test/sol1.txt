@@ -1,0 +1,13 @@
+AAABBCC#D
+ABBB#CECD
+ABBBDC#CD
+A#ABDCCCD
+BBBBD#DDD
+FGG#DDHDD
+#GIGDDHDD
+FG#GDDHDD
+FGGGDDHH#
+
+Ukuran board: 9x9
+Waktu pencarian: 5838 ms
+Jumlah iterasi: 364209345 kasus

@@ -1,0 +1,12 @@
+AB#CDDDE
+AABC#DDE
+FAAAADD#
+#FAAAADE
+GGAAAA#A
+H#AAAAAA
+HHHAA#AA
+HHH#HAAA
+
+Ukuran board: 8x8
+Waktu pencarian: 117 ms
+Jumlah iterasi: 6257644 kasus

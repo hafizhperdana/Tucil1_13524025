@@ -1,0 +1,11 @@
+#AAAABB
+AC#CDBB
+ACCE#DD
+AFFEEE#
+FFF#GGG
+H#HIIIG
+HHHII#G
+
+Ukuran board: 7x7
+Waktu pencarian: 11 ms
+Jumlah iterasi: 53011 kasus
