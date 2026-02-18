@@ -1,6 +1,8 @@
 # Tugas Kecil 1 Strategi Alagoritma
 
 ## LinkedIn Queens Problem
+Nama: Moh. Hafizh irham Perdana
+NIM: 13524025
 
 ## Deskripsi Singkat
 Program adalah aplikasi berbasis Java untuk menyelesaikan variasi persoalan **Linkedin Queens Problem** menggunakan algoritma **Brute Force**. Berbeda dengan N-Queens standar, program ini menangani kendala (constraints) tambahan yang lebih kompleks.
@@ -25,7 +27,10 @@ Untuk menjalankan program ini, pastikan komputer Anda telah terinstal:
 Pastikan Anda berada di direktori/folder yang sama dengan file kode sumber (`.java`). Buka terminal atau command prompt, lalu jalankan perintah berikut:
 
 ```bash
+## Cara Mengkompilasi
 javac *.java
 
 ## Cara Menjalankan
 java Main
+
+
