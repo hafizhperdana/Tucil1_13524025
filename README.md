@@ -6,9 +6,7 @@ Nama: Moh. Hafizh irham Perdana
 NIM: 13524025
 
 ## Deskripsi Singkat
-Program adalah aplikasi berbasis Java untuk menyelesaikan variasi persoalan **Linkedin Queens Problem** menggunakan algoritma **Brute Force**. Berbeda dengan N-Queens standar, program ini menangani kendala (constraints) tambahan yang lebih kompleks.
-
-Program dilengkapi dengan **Graphical User Interface (GUI)** yang interaktif untuk memvisualisasikan proses pencarian solusi langkah demi langkah.
+Program ini adalah aplikasi berbasis Java untuk menyelesaikan **Linkedin Queens Problem** menggunakan algoritma **Brute Force** yang dapat menjamin solusi untuk setiap permasalahan. Program dilengkapi dengan **Graphical User Interface (GUI)** yang interaktif untuk memvisualisasikan proses pencarian solusi langkah demi langkah.
 
 **Fitur Utama:**
 * **Visualisasi Backtracking:** Pengguna dapat melihat bagaimana algoritma mencoba menempatkan ratu dan melakukan *backtrack* secara *real-time*.
@@ -16,11 +14,11 @@ Program dilengkapi dengan **Graphical User Interface (GUI)** yang interaktif unt
     1.  **Baris & Kolom:** Tidak boleh ada dua ratu di baris atau kolom yang sama.
     2.  **Wilayah Warna:** Papan dibagi menjadi wilayah warna (karakter input). Tidak boleh ada dua ratu di wilayah warna yang sama.
     3.  **Touch Constraint:** Ratu tidak boleh bersentuhan dengan ratu lain, baik secara vertikal, horizontal, maupun diagonal (jarak 1 petak).
-* **Kontrol Kecepatan:** Slider untuk mengatur kecepatan animasi pencarian.
-* **Load & Save:** Kemampuan membaca konfigurasi papan dari file `.txt` dan menyimpan solusi ke file eksternal.
+* **Kontrol Kecepatan:** Slider untuk mengatur kecepatan board update.
+* **Load & Save:** Kemampuan membaca konfigurasi board dari file `.txt` dan menyimpan solusi ke file eksternal.
 
 ## Requirements (Prasyarat)
-Untuk menjalankan program ini, pastikan komputer Anda telah terinstal:
+Untuk menjalankan program ini, pastikan komputer telah terinstal:
 * **Java Development Kit (JDK)** versi 8 atau yang lebih baru.
 * Sistem Operasi: Windows, macOS, atau Linux.
 
@@ -29,9 +27,9 @@ Pastikan Anda berada di direktori/folder yang sama dengan file kode sumber (`.ja
 
 ```bash
 ## Cara Mengkompilasi
-javac *.java
+javac -d bin src/*.java
 
 ## Cara Menjalankan
-java Main
+java -cp bin Main
 
 
