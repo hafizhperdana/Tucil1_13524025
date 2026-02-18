@@ -1,4 +1,4 @@
-# Tugas Kecil 1 Strategi Alagoritma
+# Tugas Kecil 1 Strategi Algoritma
 
 ## LinkedIn Queens Problem
 Nama: Moh. Hafizh irham Perdana
