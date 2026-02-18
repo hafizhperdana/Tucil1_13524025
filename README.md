@@ -2,6 +2,7 @@
 
 ## LinkedIn Queens Problem
 Nama: Moh. Hafizh irham Perdana
+
 NIM: 13524025
 
 ## Deskripsi Singkat
